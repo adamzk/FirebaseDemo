@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="menu_item_sign_out">Sign Out</string>
+    <string name="et_hint_message">message</string>
+    <string name="db_node_messages">messages</string>
+    <string name="snackbar_signed_in">sign-in successful</string>
+</resources>

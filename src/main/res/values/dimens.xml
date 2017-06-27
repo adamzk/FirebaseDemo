@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_button_8dp">8dp</dimen>
+    <dimen name="lv_margin">16dp</dimen>
+    <dimen name="tv_message_preview">16sp</dimen>
+    <dimen name="tv_message_author">12sp</dimen>
+    <dimen name="pb_size">72dp</dimen>
+</resources>
